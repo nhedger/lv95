@@ -1,6 +1,6 @@
 # LV95
 
-This library exposes a `fromLV65` function to transform LV95 coordinates to
+This library exposes a `fromLV95` function to transform LV95 coordinates to
 WGS84 coordinates.
 
 ## Installation
