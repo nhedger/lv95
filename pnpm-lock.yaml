@@ -1,14 +1,14 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@hedger/prettier-config': ^1.1.0
+  '@hedger/prettier-config': ^1.2.0
   prettier: ^2.7.1
   typescript: ^4.8.2
   unbuild: ^0.8.10
   vitest: ^0.23.1
 
 devDependencies:
-  '@hedger/prettier-config': 1.1.0
+  '@hedger/prettier-config': 1.2.0
   prettier: 2.7.1
   typescript: 4.8.2
   unbuild: 0.8.10
@@ -240,8 +240,8 @@ packages:
     dev: true
     optional: true
 
-  /@hedger/prettier-config/1.1.0:
-    resolution: {integrity: sha512-xFmfQ+T/IKbBMsNj83P0MA2PIh0gSre2p6VYZCDJd1uDaeAZjyzK72b2wYp7F5/jqWLciNubrioovWr3Hf5DPg==}
+  /@hedger/prettier-config/1.2.0:
+    resolution: {integrity: sha512-7P/emAIlilnN11j33pgktm+PBrCwVn3AQe6DxCYiojCXoBc5+G+pThleylDKDu2utLXfsboPOmGp/5uIzLzPcg==}
     dev: true
 
   /@jridgewell/gen-mapping/0.1.1:
