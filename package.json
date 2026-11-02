@@ -34,7 +34,7 @@
     },
     "devDependencies": {
         "@hedger/prettier-config": "^1.1.0",
-        "prettier": "^2.7.1",
+        "prettier": "^2.8.8",
         "typescript": "^4.8.2",
         "unbuild": "^0.8.10",
         "vitest": "^0.23.1"
